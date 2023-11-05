@@ -1,0 +1,22 @@
+{
+  "prompt_text": "Rocky ground on the moon from above satellite view.",
+  "patch": {
+    "ext": "png",
+    "dtype": "uint8",
+    "width": 512,
+    "height": 512,
+    "url": "https://static.withpoly.com/v3-voronoi/textures/patches/1e393bcf-d28d-4a30-8c9d-dd64f2f582ea.png",
+    "patch_id": "HxCmW6pGny"
+  },
+  "seamless_prompt_text": "Rocky ground on the moon from above satellite view.",
+  "seamless_patch_scale": 0.8,
+  "upscale_prompt_text": "Rocky ground on the moon from above satellite view.",
+  "upscale_resolution": 2048,
+  "is_seamless": true,
+  "pbr_mode": "organic",
+  "pbr_generate_color": true,
+  "pbr_generate_normal": true,
+  "pbr_generate_height": true,
+  "pbr_generate_ao": true,
+  "pbr_generate_roughness": true
+}
